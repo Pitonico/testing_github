@@ -7,3 +7,6 @@ function fazerCadastro(nome, sobrenome, idade){
     }
 }
 
+function buscarIdade(obj){
+    return obj.idade
+}
